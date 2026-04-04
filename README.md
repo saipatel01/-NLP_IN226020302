@@ -91,3 +91,23 @@ This project focuses on building an end-to-end Sentiment Analysis system using N
 
 TF-IDF combined with Logistic Regression provided the best performance for this sentiment classification task. Proper preprocessing significantly improved model accuracy.
 
+## 🚀 NLP Internship Task 5 Completed – Token Classification using BERT!**
+
+As part of my Data Science Internship at Innomatics Research Labs, I worked on fine-tuning a transformer model for **Part-of-Speech (POS) Tagging and Chunking** using token classification.
+
+🔍 **Summary:**
+In this task, I built and fine-tuned a transformer model like BERT / DistilBERT to perform sequence labeling tasks. I learned how to preprocess text data, align labels with subword tokens, and evaluate model performance using sequence-based metrics.
+
+📚 **Key Learnings:**
+
+✔️ Token Classification using Transformer Models
+✔️ POS Tagging vs Chunking (Grammar vs Phrase-level understanding)
+✔️ Handling Tokenization & Label Alignment Challenges
+✔️ Fine-tuning models using Hugging Face Transformers
+✔️ Model Evaluation using seqeval (Precision, Recall, F1-score)
+
+🙏 **Acknowledgment:**
+Grateful to Innomatics Research Labs, my trainer, and mentor for their continuous support and guidance throughout this task.
+
+#NLP #AI #DataScience #MachineLearning
+
